@@ -283,6 +283,8 @@ export {
   mdiPencil,
   mdiPhone,
   mdiPhoneInTalk,
+  mdiPin,
+  mdiPinOutline,
   mdiPlay,
   mdiPlayCircleOutline,
   mdiPlus,
